@@ -20,9 +20,9 @@ Superstore Sales Dataset (Kaggle) — retail transaction data including order da
 
 ## 📈 Results
 - Clear upward sales trend identified from 2014–2018
-- Forecasted approx. \$74,500/month sales by month 54
-- Mean Absolute Error (MAE): approx. \$17,458
-- Strong seasonality: Q4 (Sep–Dec) shows peak sales, especially November (~\$88K avg); February is the slowest month (~\$15K avg)
+- Forecasted approx. $74,500/month sales by month 54
+- Mean Absolute Error (MAE): approx. $17,458
+- Strong seasonality: Q4 (Sep-Dec) shows peak sales, especially November (approx. $88K avg); February is the slowest month (approx. $15K avg)
 
 ## 💡 Business Value
 This forecast helps businesses:
